@@ -48,7 +48,7 @@ nav a {
     justify-content: center; /* Centraliza na horizontal */
     align-items: center;     /* Centraliza na vertical */
     padding: 20px;
-    margin: 5%;
+   
 }
 
 
@@ -63,6 +63,7 @@ nav a {
     max-width: 400px;       /* Largura máxima para computador */
     text-align: center;     /* Centraliza o texto e a imagem */
     box-shadow: 0 10px 25px rgba(0,0,0,0.5); /* Sombra elegante */
+    margin: 1%;
 }
 
 .logo-redonda {
