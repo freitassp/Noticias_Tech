@@ -7,6 +7,11 @@
     box-sizing: border-box; /* Faz com que a borda não "estique" o tamanho total */
 }
 
+.destaque{
+    color: red;
+}
+
+
 body {
     background-color: #0f172a; /* Cor de fundo escura (Dark Mode) */
     color: #f8fafc;           /* Cor da letra clara */
