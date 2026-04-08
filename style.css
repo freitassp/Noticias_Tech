@@ -72,8 +72,8 @@ nav a {
 }
 
 .logo-redonda {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 20%;     /* O TRUQUE: Deixa qualquer imagem redonda */
     border: 3px solid #38bdf8;
     margin-bottom: 20px;    /* Espaço abaixo da imagem (Box Model) */
